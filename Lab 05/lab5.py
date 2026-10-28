@@ -74,7 +74,7 @@ def main():
         draw_line(t, x1, y1, x2, y2)
         x1 += 19
         y2 -= 12
-
+    
     screen.update()
     screen.mainloop()
 
